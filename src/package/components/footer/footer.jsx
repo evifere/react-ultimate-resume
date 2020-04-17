@@ -31,7 +31,7 @@ const FooterComponent = () => {
                 <div className={classes.wldLogoGithubLogoContainer}>
                     <a
                         className={classes.logoLink}
-                        href="https://welovedevs.com"
+                        href="https://www.linkedin.com/in/n1c0l4s-j0117/"
                         target="_blank"
                         rel="noreferrer noopener"
                     >
@@ -41,13 +41,13 @@ const FooterComponent = () => {
                         title={
                             <FormattedMessage
                                 id="Footer.github.tooltip"
-                                defaultMessage="Create your own developer profile!"
+                                defaultMessage="Mon compte github c'est par ici !"
                             />
                         }
                     >
                         <a
                             className={classes.githubLink}
-                            href="https://github.com/welovedevs/developer-profile"
+                            href="https://github.com/evifere"
                             target="_bank"
                             rel="noreferer noopener"
                         >
@@ -62,18 +62,19 @@ const FooterComponent = () => {
 
     return (
         <div className={classes.container}>
-            <a className={classes.logoLink} href="https://welovedevs.com" target="_blank" rel="noreferrer noopener">
+            <a
+                className={classes.logoLink}
+                href="https://www.linkedin.com/in/n1c0l4s-j0117/"
+                target="_blank"
+                rel="noreferrer noopener"
+            >
                 <Logo className={classes.logo} />
             </a>
             <ShareLinks />
-            <Tooltip
-                title={
-                    <FormattedMessage id="Footer.github.tooltip" defaultMessage="Create your own developer profile!" />
-                }
-            >
+            <Tooltip title={<FormattedMessage id="Me suivre sur github" defaultMessage="Me suivre sur github" />}>
                 <a
                     className={classes.githubLink}
-                    href="https://github.com/welovedevs/developer-profile"
+                    href="https://github.com/evifere"
                     target="_bank"
                     rel="noreferer noopener"
                 >
