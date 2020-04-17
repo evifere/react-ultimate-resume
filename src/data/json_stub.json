@@ -136,6 +136,20 @@
                 }
             ],
             "date": "2019-08-01"
+        },
+        {
+            "name": "edWui",
+            "description": " Projet éducatif\n\n            1.0 - jeu de mémo écrit avec des widgets maison basées sur jQuery UI.\n            1.1 - jeu de mémo écrit avec backbone js et utilisant jquery UI css.\n            1.2 - jeu de mémo écrit avec backbone js et utilisant spectre css.",
+            "link": [
+                "https://evifere.github.io/edWui/"
+            ],
+            "images": [
+                {
+                    "name": "Clone de 2048 en 3D",
+                    "url": "https://evifere.github.io/img/edWui1.2.png"
+                }
+            ],
+            "date": "2019-08-01"
         }
     ],
     "specific": {
