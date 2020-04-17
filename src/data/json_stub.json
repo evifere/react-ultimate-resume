@@ -122,6 +122,20 @@
                 }
             ],
             "date": "2019-08-01"
+        },
+        {
+            "name": "Power of three",
+            "description": "en 3D désormais basé sur les puissances de 3 pour le calcul du score, utilisant les frameworks js backbone et threejs.",
+            "link": [
+                "https://evifere.github.io/powerofThree/"
+            ],
+            "images": [
+                {
+                    "name": "Clone de 2048 en 3D",
+                    "url": "https://evifere.github.io/img/PoT.png"
+                }
+            ],
+            "date": "2019-08-01"
         }
     ],
     "specific": {
