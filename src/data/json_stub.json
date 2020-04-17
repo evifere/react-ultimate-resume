@@ -32,7 +32,9 @@
             "startDate": "2000-08-01",
             "endDate": "2002-08-01",
             "gpa": "4.0",
-            "courses": ["option développeur d'application"]
+            "courses": [
+                "option développeur d'application"
+            ]
         }
     ],
     "awards": [],
@@ -42,29 +44,55 @@
             "name": "Vuejs",
             "level": "Master",
             "value": 100,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
         },
         {
             "name": "react",
             "level": "Master",
             "value": 40,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
         },
         {
             "name": "NodeJS",
             "level": "Master",
             "value": 40,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
         },
-
         {
             "name": "PHP laravel",
             "level": "Master",
             "value": 50,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
         }
     ],
-    "languages": [{ "language": "Français", "value": 100, "fluency": "Langue maternelle" },{ "language": "English", "value": 60, "fluency": "fluent" }],
+    "languages": [
+        {
+            "language": "Français",
+            "value": 100,
+            "fluency": "Langue maternelle"
+        },
+        {
+            "language": "English",
+            "value": 60,
+            "fluency": "fluent"
+        }
+    ],
     "interests": [
         {
             "name": "Video games",
@@ -74,12 +102,19 @@
             "name": "J'aime faire des randonnées en famille le weekend."
         }
     ],
-    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ],
     "projects": [
         {
             "name": "Générateur de coloriages",
             "description": "Développé avec la bibliothèque fabric js et le framework vue js",
-            "images": ["https://evifere.github.io/img/cocolorico.png"]
+            "images": [
+                "https://evifere.github.io/img/cocolorico.png"
+            ]
         }
     ],
     "specific": {
@@ -89,17 +124,22 @@
         },
         "dreamJob": {
             "locations": [
-                { "name": "Rouen, France" },
-                { "name": "Paris,France" }
+                {
+                    "name": "Rouen, France"
+                },
+                {
+                    "name": "Paris,France"
+                }
             ],
             "remoteFrequency": "3 à 5 jour"
         },
-        "currentJob": {
-            "issues": { "boring_management": false, "boring_team": false }
+        "education": {
+            "studiesLevel": 2
         },
-        "education": { "studiesLevel": 2 },
         "work": {
-            "contractTypes": ["permanent"],
+            "contractTypes": [
+                "permanent"
+            ],
             "codingYears": 26,
             "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
             "searchState": "activelySearching",
@@ -108,22 +148,45 @@
         "sound": null,
         "interestedBy": "Vue js Nodejs"
     },
-    "locale":"fr",
-
+    "locale": "fr",
     "resumeCustomization": {
         "imageHeader": {
             "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
             "alt": "Default Banner"
         },
         "cardsOrder": [
-            { "type": "basics", "variant": 4 },
-            { "type": "projects", "variant": 4 },
-            { "type": "skills", "variant": 0 },
-            { "type": "dreamjob", "variant": 4 },
-            { "type": "studies", "variant": 4 },
-            { "type": "gifs", "variant": 0 },
-            { "type": "interestedBy", "variant": 3 },
-            { "type": "language", "variant": 4 }
+            {
+                "type": "basics",
+                "variant": 4
+            },
+            {
+                "type": "projects",
+                "variant": 4
+            },
+            {
+                "type": "skills",
+                "variant": 0
+            },
+            {
+                "type": "dreamjob",
+                "variant": 4
+            },
+            {
+                "type": "studies",
+                "variant": 4
+            },
+            {
+                "type": "gifs",
+                "variant": 0
+            },
+            {
+                "type": "interestedBy",
+                "variant": 3
+            },
+            {
+                "type": "language",
+                "variant": 4
+            }
         ],
         "fields": {
             "work": {
