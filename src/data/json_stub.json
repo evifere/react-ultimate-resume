@@ -112,9 +112,16 @@
         {
             "name": "Générateur de coloriages",
             "description": "Développé avec la bibliothèque fabric js et le framework vue js",
+            "link": [
+                "https://evifere.github.io/cocolorico"
+            ],
             "images": [
-                "https://evifere.github.io/img/cocolorico.png"
-            ]
+                {
+                    "name": "Générateur de coloriages",
+                    "url": "https://evifere.github.io/img/cocolorico.png"
+                }
+            ],
+            "date": "2019-08-01"
         }
     ],
     "specific": {
