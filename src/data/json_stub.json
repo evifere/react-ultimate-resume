@@ -150,6 +150,20 @@
                 }
             ],
             "date": "2019-08-01"
+        },
+        {
+            "name": "Ui-brixploder",
+            "description": "Jeu de casse briques\nécrit avec des widgets maison basée sur jQuery UI",
+            "link": [
+                "https://evifere.github.io/ui-brixploder/"
+            ],
+            "images": [
+                {
+                    "name": "Jeu de casse-briques",
+                    "url": "https://evifere.github.io/img/brixploder.png"
+                }
+            ],
+            "date": "2011"
         }
     ],
     "specific": {
