@@ -1,114 +1,53 @@
 {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
-        "picture": "",
-        "email": "john@gmail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "name": "Nicolas JOLLY",
+        "label": "Développeur",
+        "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQHhnZM7e5gpTg/profile-displayphoto-shrink_100_100/0?e=1592438400&v=beta&t=gji1eLazj0PiEBZc5xnQ34xhyB10Jcdq3FS3LJyv7eI",
+        "email": "nj.job.search@gmail.com",
+        "phone": "",
+        "website": "https://evifere.github.io/",
+        "summary": "Développeur Fullstack PHP/js",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+            "address": "",
+            "postalCode": "76100",
+            "city": "ROUEN",
+            "countryCode": "FR",
+            "region": "Normandie"
         },
         "profiles": [
             {
                 "network": "Twitter",
-                "username": "john",
-                "url": "http://twitter.com/john"
+                "username": "3v1f323",
+                "url": "https://twitter.com/3v1f323"
             }
         ]
     },
-    "work": [
-        {
-            "name": "Company 2 ",
-            "position": "Worker",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        }
-    ],
-    "volunteer": [
-        {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "website": "http://organization.com/",
-            "endDate": "2013-01-01",
-            "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
-        }
-    ],
+    "work": [],
+    "volunteer": [],
     "education": [
         {
-            "institution": "ISEN",
+            "institution": "GRETA",
             "area": "Software Development",
-            "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
+            "studyType": "B.T.S Info gestion",
+            "startDate": "2000-08-01",
+            "endDate": "2002-08-01",
             "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        },
-        {
-            "institution": "Université d'artois",
-            "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "courses": ["option développeur d'application"]
         }
     ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
-            "summary": "Description..."
-        }
-    ],
+    "awards": [],
+    "publications": [],
     "skills": [
         {
-            "name": "Reactaaa",
+            "name": "Vuejs",
             "level": "Master",
             "value": 100,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Angular",
+            "name": "react",
             "level": "Master",
-            "value": 80,
+            "value": 40,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
@@ -117,87 +56,60 @@
             "value": 40,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
+
         {
-            "name": "Firebase",
+            "name": "PHP laravel",
             "level": "Master",
-            "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Gmail",
-            "level": "Master",
-            "value": 20,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "K8S",
-            "level": "Master",
-            "value": 80,
+            "value": 50,
             "keywords": ["HTML", "CSS", "Javascript"]
         }
     ],
-    "languages": [{ "language": "English", "value": 100, "fluency": "Native speaker" }],
+    "languages": [{ "language": "Français", "value": 100, "fluency": "Langue maternelle" },{ "language": "English", "value": 60, "fluency": "fluent" }],
     "interests": [
         {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
+            "name": "Video games",
+            "gifUrl": "https://media.giphy.com/media/1wh06XT53tPGw/giphy.gif"
         },
         {
-            "name": "Dogs",
-            "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
-        },
-        {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
-        },
-        {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
-        },
-        {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
+            "name": "J'aime faire des randonnées en famille le weekend."
         }
     ],
     "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
     "projects": [
         {
-            "name": "Développement d'un serpent connecté",
-            "description": "Et oui, vous avez bien entendu !\nUn serpent connecté, c'est comme une montre connectée, mais en serpent, en fait ça ressemble pas une montre, mais ça reste connecté 🚀",
-            "images": []
+            "name": "Générateur de coloriages",
+            "description": "Développé avec la bibliothèque fabric js et le framework vue js",
+            "images": ["https://evifere.github.io/img/cocolorico.png"]
         }
     ],
     "specific": {
         "basics": {
-            "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+            "visaSponsorship": false,
+            "personalDescription": " Les 5 qualités du dev :\n            \n\n            ▪ La vue pour rtfm bien entendu.\n            ▪ L'odorat pour dénicher le bug que personne ne trouve.\n           ▪ L'ouïe pour savoir se taire quand il le faut et pouvoir mieux communiquer.\n            ▪ Le goût car le fonctionnel n'est pas la seule chose importante.\n            ▪ Le toucher car il faut bien produire un jour une ligne de code.            \n            \n            L'environnement optimal pour travailler:\n            \n            ▪ Le home-office afin de faire sa veille pendant que les autres s'essouflent dans les transports et être protégé des nuisances sonores de l'open-space. "
         },
         "dreamJob": {
             "locations": [
-                { "name": "Valenciennes, France" },
-                { "name": "Lille, France" },
-                { "name": "Paris,France" },
-                { "name": "Paris,France" },
-                { "name": "Lille, France" },
-                { "name": "Valenciennes, France" }
+                { "name": "Rouen, France" },
+                { "name": "Paris,France" }
             ],
-            "remoteFrequency": "regularly"
+            "remoteFrequency": "3 à 5 jour"
         },
         "currentJob": {
-            "issues": { "boring_management": true, "boring_team": true }
+            "issues": { "boring_management": false, "boring_team": false }
         },
-        "education": { "studiesLevel": 5 },
+        "education": { "studiesLevel": 2 },
         "work": {
             "contractTypes": ["permanent"],
-            "codingYears": 7,
+            "codingYears": 26,
             "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
             "searchState": "activelySearching",
-            "experienceYears": 9
+            "experienceYears": 20
         },
-        "sound": {
-            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
-        },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "sound": null,
+        "interestedBy": "Vue js Nodejs"
     },
+    "locale":"fr",
+
     "resumeCustomization": {
         "imageHeader": {
             "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
@@ -208,12 +120,10 @@
             { "type": "projects", "variant": 4 },
             { "type": "skills", "variant": 0 },
             { "type": "dreamjob", "variant": 4 },
-            { "type": "experiences", "variant": 4 },
             { "type": "studies", "variant": 4 },
             { "type": "gifs", "variant": 0 },
             { "type": "interestedBy", "variant": 3 },
-            { "type": "language", "variant": 4 },
-            { "type": "soundtrack", "variant": 4 }
+            { "type": "language", "variant": 4 }
         ],
         "fields": {
             "work": {
