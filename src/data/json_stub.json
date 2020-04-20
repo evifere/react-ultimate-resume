@@ -95,11 +95,18 @@
     ],
     "interests": [
         {
-            "name": "Video games",
+            "name": "Jeux vidéos",
             "gifUrl": "https://media.giphy.com/media/1wh06XT53tPGw/giphy.gif"
         },
         {
             "name": "J'aime faire des randonnées en famille le weekend."
+        },
+        {
+            "name":"Bowling",
+            "gifUrl":"https://media.giphy.com/media/GJsj4VueZiYHC/giphy.gif"
+        },
+        {
+            "name": "J'aime aussi jouer au scrabble."
         }
     ],
     "references": [
